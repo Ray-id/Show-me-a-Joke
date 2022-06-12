@@ -1,1 +1,1 @@
-## Live demo: showmeajoke.netlify.app
+## Live demo: https://showmeajoke.netlify.app
